@@ -1,0 +1,567 @@
+,KEGG ID,Label
+0,01100,Metabolic pathways
+1,01110,Biosynthesis of secondary metabolites
+2,01120,Microbial metabolism in diverse environments
+3,01200,Carbon metabolism
+4,01210,2-Oxocarboxylic acid metabolism
+5,01212,Fatty acid metabolism
+6,01230,Biosynthesis of amino acids
+7,01232,Nucleotide metabolism
+8,01250,Biosynthesis of nucleotide sugars
+9,01240,Biosynthesis of cofactors
+10,01220,Degradation of aromatic compounds
+11,00010,Glycolysis / Gluconeogenesis
+12,00020,Citrate cycle (TCA cycle)
+13,00030,Pentose phosphate pathway
+14,00040,Pentose and glucuronate interconversions
+15,00051,Fructose and mannose metabolism
+16,00052,Galactose metabolism
+17,00053,Ascorbate and aldarate metabolism
+18,00500,Starch and sucrose metabolism
+19,00520,Amino sugar and nucleotide sugar metabolism
+20,00620,Pyruvate metabolism
+21,00630,Glyoxylate and dicarboxylate metabolism
+22,00640,Propanoate metabolism
+23,00650,Butanoate metabolism
+24,00660,C5-Branched dibasic acid metabolism
+25,00562,Inositol phosphate metabolism
+26,00190,Oxidative phosphorylation
+27,00195,Photosynthesis
+28,00196,Photosynthesis - antenna proteins
+29,00710,Carbon fixation in photosynthetic organisms
+30,00720,Carbon fixation pathways in prokaryotes
+31,00680,Methane metabolism
+32,00910,Nitrogen metabolism
+33,00920,Sulfur metabolism
+34,00061,Fatty acid biosynthesis
+35,00062,Fatty acid elongation
+36,00071,Fatty acid degradation
+37,00073,"Cutin, suberine and wax biosynthesis"
+38,00100,Steroid biosynthesis
+39,00120,Primary bile acid biosynthesis
+40,00121,Secondary bile acid biosynthesis
+41,00140,Steroid hormone biosynthesis
+42,00561,Glycerolipid metabolism
+43,00564,Glycerophospholipid metabolism
+44,00565,Ether lipid metabolism
+45,00600,Sphingolipid metabolism
+46,00590,Arachidonic acid metabolism
+47,00591,Linoleic acid metabolism
+48,00592,lpha-Linolenic acid metabolism
+49,01040,Biosynthesis of unsaturated fatty acids
+50,00230,Purine metabolism
+51,00240,Pyrimidine metabolism
+52,00250,"Alanine, aspartate and glutamate metabolism"
+53,00260,"Glycine, serine and threonine metabolism"
+54,00270,Cysteine and methionine metabolism
+55,00280,"Valine, leucine and isoleucine degradation"
+56,00290,"Valine, leucine and isoleucine biosynthesis"
+57,00300,Lysine biosynthesis
+58,00310,Lysine degradation
+59,00220,Arginine biosynthesis
+60,00330,Arginine and proline metabolism
+61,00340,Histidine metabolism
+62,00350,Tyrosine metabolism
+63,00360,Phenylalanine metabolism
+64,00380,Tryptophan metabolism
+65,00400,"Phenylalanine, tyrosine and tryptophan biosynthesis"
+66,00410,beta-Alanine metabolism
+67,00430,Taurine and hypotaurine metabolism
+68,00440,Phosphonate and phosphinate metabolism
+69,00450,Selenocompound metabolism
+70,00460,Cyanoamino acid metabolism
+71,00470,D-Amino acid metabolism
+72,00480,Glutathione metabolism
+73,00510,N-Glycan biosynthesis
+74,00513,Various types of N-glycan biosynthesis
+75,00512,Mucin type O-glycan biosynthesis
+76,00515,Mannose type O-glycan biosynthesis
+77,00514,Other types of O-glycan biosynthesis
+78,00532,Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate
+79,00534,Glycosaminoglycan biosynthesis - heparan sulfate / heparin
+80,00533,Glycosaminoglycan biosynthesis - keratan sulfate
+81,00531,Glycosaminoglycan degradation
+82,00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+83,00601,Glycosphingolipid biosynthesis - lacto and neolacto series
+84,00603,Glycosphingolipid biosynthesis - globo and isoglobo series
+85,00604,Glycosphingolipid biosynthesis - ganglio series
+86,00511,Other glycan degradation
+87,00540,Lipopolysaccharide biosynthesis
+88,00542,O-Antigen repeat unit biosynthesis
+89,00541,O-Antigen nucleotide sugar biosynthesis
+90,00550,Peptidoglycan biosynthesis
+91,00552,Teichoic acid biosynthesis
+92,00571,Lipoarabinomannan (LAM) biosynthesis
+93,00572,Arabinogalactan biosynthesis - Mycobacterium
+94,00543,Exopolysaccharide biosynthesis
+95,00730,Thiamine metabolism
+96,00740,Riboflavin metabolism
+97,00750,Vitamin B6 metabolism
+98,00760,Nicotinate and nicotinamide metabolism
+99,00770,Pantothenate and CoA biosynthesis
+100,00780,Biotin metabolism
+101,00785,Lipoic acid metabolism
+102,00790,Folate biosynthesis
+103,00670,One carbon pool by folate
+104,00830,Retinol metabolism
+105,00860,Porphyrin metabolism
+106,00130,Ubiquinone and other terpenoid-quinone biosynthesis
+107,00900,Terpenoid backbone biosynthesis
+108,00902,Monoterpenoid biosynthesis
+109,00909,Sesquiterpenoid and triterpenoid biosynthesis
+110,00904,Diterpenoid biosynthesis
+111,00906,Carotenoid biosynthesis
+112,00905,Brassinosteroid biosynthesis
+113,00981,Insect hormone biosynthesis
+114,00908,Zeatin biosynthesis
+115,00903,Limonene degradation
+116,00907,"Pinene, camphor and geraniol degradation"
+117,01052,Type I polyketide structures
+118,00522,"Biosynthesis of 12-, 14- and 16-membered macrolides"
+119,01051,Biosynthesis of ansamycins
+120,01059,Biosynthesis of enediyne antibiotics
+121,01056,Biosynthesis of type II polyketide backbone
+122,01057,Biosynthesis of type II polyketide products
+123,00253,Tetracycline biosynthesis
+124,00523,Polyketide sugar unit biosynthesis
+125,01054,Nonribosomal peptide structures
+126,01053,Biosynthesis of siderophore group nonribosomal peptides
+127,01055,Biosynthesis of vancomycin group antibiotics
+128,00940,Phenylpropanoid biosynthesis
+129,00945,"Stilbenoid, diarylheptanoid and gingerol biosynthesis"
+130,00941,Flavonoid biosynthesis
+131,00944,Flavone and flavonol biosynthesis
+132,00942,Anthocyanin biosynthesis
+133,00943,Isoflavonoid biosynthesis
+134,00946,Degradation of flavonoids
+135,00901,Indole alkaloid biosynthesis
+136,00403,Indole diterpene alkaloid biosynthesis
+137,00950,Isoquinoline alkaloid biosynthesis
+138,00960,"Tropane, piperidine and pyridine alkaloid biosynthesis"
+139,00996,Biosynthesis of various alkaloids
+140,00232,Caffeine metabolism
+141,00965,Betalain biosynthesis
+142,00966,Glucosinolate biosynthesis
+143,00402,Benzoxazinoid biosynthesis
+144,00311,Penicillin and cephalosporin biosynthesis
+145,00332,Carbapenem biosynthesis
+146,00261,Monobactam biosynthesis
+147,00331,Clavulanic acid biosynthesis
+148,00521,Streptomycin biosynthesis
+149,00524,"Neomycin, kanamycin and gentamicin biosynthesis"
+150,00525,Acarbose and validamycin biosynthesis
+151,00401,Novobiocin biosynthesis
+152,00404,Staurosporine biosynthesis
+153,00405,Phenazine biosynthesis
+154,00333,Prodigiosin biosynthesis
+155,00254,Aflatoxin biosynthesis
+156,00998,Biosynthesis of various antibiotics
+157,00999,Biosynthesis of various plant secondary metabolites
+158,00997,Biosynthesis of various other secondary metabolites
+159,00362,Benzoate degradation
+160,00627,Aminobenzoate degradation
+161,00364,Fluorobenzoate degradation
+162,00625,Chloroalkane and chloroalkene degradation
+163,00361,Chlorocyclohexane and chlorobenzene degradation
+164,00623,Toluene degradation
+165,00622,Xylene degradation
+166,00633,Nitrotoluene degradation
+167,00642,Ethylbenzene degradation
+168,00643,Styrene degradation
+169,00791,Atrazine degradation
+170,00930,Caprolactam degradation
+171,00363,Bisphenol degradation
+172,00621,Dioxin degradation
+173,00626,Naphthalene degradation
+174,00624,Polycyclic aromatic hydrocarbon degradation
+175,00365,Furfural degradation
+176,00984,Steroid degradation
+177,00980,Metabolism of xenobiotics by cytochrome P450
+178,00982,Drug metabolism - cytochrome P450
+179,00983,Drug metabolism - other enzymes
+180,01010,Overview of biosynthetic pathways
+181,01060,Biosynthesis of plant secondary metabolites
+182,01061,Biosynthesis of phenylpropanoids
+183,01062,Biosynthesis of terpenoids and steroids
+184,01063,Biosynthesis of alkaloids derived from shikimate pathway
+185,01064,"Biosynthesis of alkaloids derived from ornithine, lysine and nicotinic acid"
+186,01065,Biosynthesis of alkaloids derived from histidine and purine
+187,01066,Biosynthesis of alkaloids derived from terpenoid and polyketide
+188,01070,Biosynthesis of plant hormones
+189,03020,RNA polymerase
+190,03022,Basal transcription factors
+191,03040,Spliceosome
+192,03010,Ribosome
+193,00970,Aminoacyl-tRNA biosynthesis
+194,03013,Nucleocytoplasmic transport
+195,03015,mRNA surveillance pathway
+196,03008,Ribosome biogenesis in eukaryotes
+197,03060,Protein export
+198,04141,Protein processing in endoplasmic reticulum
+199,04130,SNARE interactions in vesicular transport
+200,04120,Ubiquitin mediated proteolysis
+201,04122,Sulfur relay system
+202,03050,Proteasome
+203,03018,RNA degradation
+204,03030,DNA replication
+205,03410,Base excision repair
+206,03420,Nucleotide excision repair
+207,03430,Mismatch repair
+208,03440,Homologous recombination
+209,03450,Non-homologous end-joining
+210,03460,Fanconi anemia pathway
+211,03082,ATP-dependent chromatin remodeling
+212,03083,Polycomb repressive complex
+213,03230,Viral genome structure
+214,03240,Viral replication
+215,03250,Viral life cycle - HIV-1
+216,03260,Virion - Human immunodeficiency virus
+217,03262,Virion - Coronavirus
+218,03261,Virion - Influenza A virus
+219,03263,Virion - Enterovirus
+220,03264,Virion - Flavivirus
+221,03265,Virion - Lyssavirus
+222,03266,Virion - Herpesvirus
+223,03268,Virion - Orthopoxvirus
+224,03267,Virion - Adenovirus
+225,03269,Virion - Bacteriophage T4
+226,02010,ABC transporters
+227,02060,Phosphotransferase system (PTS)
+228,03070,Bacterial secretion system
+229,02020,Two-component system
+230,04010,MAPK signaling pathway
+231,04013,MAPK signaling pathway - fly
+232,04016,MAPK signaling pathway - plant
+233,04011,MAPK signaling pathway - yeast
+234,04012,ErbB signaling pathway
+235,04014,Ras signaling pathway
+236,04015,Rap1 signaling pathway
+237,04310,Wnt signaling pathway
+238,04330,Notch signaling pathway
+239,04340,Hedgehog signaling pathway
+240,04341,Hedgehog signaling pathway - fly
+241,04350,TGF-beta signaling pathway
+242,04390,Hippo signaling pathway
+243,04391,Hippo signaling pathway - fly
+244,04392,Hippo signaling pathway - multiple species
+245,04370,VEGF signaling pathway
+246,04371,Apelin signaling pathway
+247,04630,JAK-STAT signaling pathway
+248,04064,NF-kappa B signaling pathway
+249,04668,TNF signaling pathway
+250,04066,HIF-1 signaling pathway
+251,04068,FoxO signaling pathway
+252,04020,Calcium signaling pathway
+253,04070,Phosphatidylinositol signaling system
+254,04072,Phospholipase D signaling pathway
+255,04071,Sphingolipid signaling pathway
+256,04024,cAMP signaling pathway
+257,04022,cGMP-PKG signaling pathway
+258,04151,PI3K-Akt signaling pathway
+259,04152,AMPK signaling pathway
+260,04150,mTOR signaling pathway
+261,04075,Plant hormone signal transduction
+262,04080,Neuroactive ligand-receptor interaction
+263,04060,Cytokine-cytokine receptor interaction
+264,04061,Viral protein interaction with cytokine and cytokine receptor
+265,04512,ECM-receptor interaction
+266,04514,Cell adhesion molecules
+267,04144,Endocytosis
+268,04145,Phagosome
+269,04142,Lysosome
+270,04146,Peroxisome
+271,04140,Autophagy - animal
+272,04138,Autophagy - yeast
+273,04136,Autophagy - other
+274,04137,Mitophagy - animal
+275,04139,Mitophagy - yeast
+276,04110,Cell cycle
+277,04111,Cell cycle - yeast
+278,04112,Cell cycle - Caulobacter
+279,04113,Meiosis - yeast
+280,04114,Oocyte meiosis
+281,04210,Apoptosis
+282,04214,Apoptosis - fly
+283,04215,Apoptosis - multiple species
+284,04216,Ferroptosis
+285,04217,Necroptosis
+286,04115,p53 signaling pathway
+287,04218,Cellular senescence
+288,04510,Focal adhesion
+289,04520,Adherens junction
+290,04530,Tight junction
+291,04540,Gap junction
+292,04550,Signaling pathways regulating pluripotency of stem cells
+293,02024,Quorum sensing
+294,05111,Biofilm formation - Vibrio cholerae
+295,02025,Biofilm formation - Pseudomonas aeruginos
+296,02026,Biofilm formation - Escherichia coli
+297,02030,Bacterial chemotaxis
+298,02040,Flagellar assembly
+299,04814,Motor proteins
+300,04810,Regulation of actin cytoskeleton
+301,04640,Hematopoietic cell lineage
+302,04610,Complement and coagulation cascades
+303,04611,Platelet activation
+304,04613,Neutrophil extracellular trap formation
+305,04620,Toll-like receptor signaling pathway
+306,04624,Toll and Imd signaling pathway
+307,04621,NOD-like receptor signaling pathway
+308,04622,RIG-I-like receptor signaling pathway
+309,04623,Cytosolic DNA-sensing pathway
+310,04625,C-type lectin receptor signaling pathway
+311,04650,Natural killer cell mediated cytotoxicity
+312,04612,Antigen processing and presentation
+313,04660,T cell receptor signaling pathway
+314,04658,Th1 and Th2 cell differentiation
+315,04659,Th17 cell differentiation
+316,04657,IL-17 signaling pathway
+317,04662,B cell receptor signaling pathway
+318,04664,Fc epsilon RI signaling pathway
+319,04666,Fc gamma R-mediated phagocytosis
+320,04670,Leukocyte transendothelial migration
+321,04672,Intestinal immune network for IgA production
+322,04062,Chemokine signaling pathway
+323,04911,Insulin secretion
+324,04910,Insulin signaling pathway
+325,04922,Glucagon signaling pathway
+326,04923,Regulation of lipolysis in adipocytes
+327,04920,Adipocytokine signaling pathway
+328,03320,PPAR signaling pathway
+329,04929,GnRH secretion
+330,04912,GnRH signaling pathway
+331,04913,Ovarian steroidogenesis
+332,04915,Estrogen signaling pathway
+333,04914,Progesterone-mediated oocyte maturation
+334,04917,Prolactin signaling pathway
+335,04921,Oxytocin signaling pathway
+336,04926,Relaxin signaling pathway
+337,04935,"Growth hormone synthesis, secretion and action"
+338,04918,Thyroid hormone synthesis
+339,04919,Thyroid hormone signaling pathway
+340,04928,"Parathyroid hormone synthesis, secretion and action"
+341,04916,Melanogenesis
+342,04924,Renin secretion
+343,04614,Renin-angiotensin system
+344,04925,Aldosterone synthesis and secretion
+345,04927,Cortisol synthesis and secretion
+346,04260,Cardiac muscle contraction
+347,04261,Adrenergic signaling in cardiomyocytes
+348,04270,Vascular smooth muscle contraction
+349,04970,Salivary secretion
+350,04971,Gastric acid secretion
+351,04972,Pancreatic secretion
+352,04976,Bile secretion
+353,04973,Carbohydrate digestion and absorption
+354,04974,Protein digestion and absorption
+355,04975,Fat digestion and absorption
+356,04979,Cholesterol metabolism
+357,04977,Vitamin digestion and absorption
+358,04978,Mineral absorption
+359,04962,Vasopressin-regulated water reabsorption
+360,04960,Aldosterone-regulated sodium reabsorption
+361,04961,Endocrine and other factor-regulated calcium reabsorption
+362,04964,Proximal tubule bicarbonate reclamation
+363,04966,Collecting duct acid secretion
+364,04724,Glutamatergic synapse
+365,04727,GABAergic synapse
+366,04725,Cholinergic synapse
+367,04728,Dopaminergic synapse
+368,04726,Serotonergic synapse
+369,04720,Long-term potentiation
+370,04730,Long-term depression
+371,04723,Retrograde endocannabinoid signaling
+372,04721,Synaptic vesicle cycle
+373,04722,Neurotrophin signaling pathway
+374,04744,Phototransduction
+375,04745,Phototransduction - fly
+376,04740,Olfactory transduction
+377,04742,Taste transduction
+378,04750,Inflammatory mediator regulation of TRP channels
+379,04320,Dorso-ventral axis formation
+380,04360,Axon guidance
+381,04361,Axon regeneration
+382,04380,Osteoclast differentiation
+383,04211,Longevity regulating pathway
+384,04212,Longevity regulating pathway - worm
+385,04213,Longevity regulating pathway - multiple species
+386,04710,Circadian rhythm
+387,04713,Circadian entrainment
+388,04711,Circadian rhythm - fly
+389,04712,Circadian rhythm - plant
+390,04714,Thermogenesis
+391,04626,Plant-pathogen interaction
+392,05200,Pathways in cancer
+393,05202,Transcriptional misregulation in cancer
+394,05206,MicroRNAs in cancer
+395,05205,Proteoglycans in cancer
+396,05204,Chemical carcinogenesis - DNA adducts
+397,05207,Chemical carcinogenesis - receptor activation
+398,05208,Chemical carcinogenesis - reactive oxygen species
+399,05203,Viral carcinogenesis
+400,05230,Central carbon metabolism in cancer
+401,05231,Choline metabolism in cancer
+402,05235,PD-L1 expression and PD-1 checkpoint pathway in cancer
+403,05210,Colorectal cancer
+404,05212,Pancreatic cancer
+405,05225,Hepatocellular carcinom
+406,05226,Gastric cancer
+407,05214,Gliom
+408,05216,Thyroid cancer
+409,05221,Acute myeloid leukemi
+410,05220,Chronic myeloid leukemi
+411,05217,Basal cell carcinom
+412,05218,Melanom
+413,05211,Renal cell carcinom
+414,05219,Bladder cancer
+415,05215,Prostate cancer
+416,05213,Endometrial cancer
+417,05224,Breast cancer
+418,05222,Small cell lung cancer
+419,05223,Non-small cell lung cancer
+420,05166,Human T-cell leukemia virus 1 infection
+421,05170,Human immunodeficiency virus 1 infection
+422,05161,Hepatitis B
+423,05160,Hepatitis C
+424,05171,Coronavirus disease - COVID-19
+425,05164,Influenza A
+426,05162,Measles
+427,05168,Herpes simplex virus 1 infection
+428,05163,Human cytomegalovirus infection
+429,05167,Kaposi sarcoma-associated herpesvirus infection
+430,05169,Epstein-Barr virus infection
+431,05165,Human papillomavirus infection
+432,05110,Vibrio cholerae infection
+433,05120,Epithelial cell signaling in Helicobacter pylori infection
+434,05130,Pathogenic Escherichia coli infection
+435,05132,Salmonella infection
+436,05131,Shigellosis
+437,05135,Yersinia infection
+438,05133,Pertussis
+439,05134,Legionellosis
+440,05150,Staphylococcus aureus infection
+441,05152,Tuberculosis
+442,05100,Bacterial invasion of epithelial cells
+443,05146,Amoebiasis
+444,05144,Malari
+445,05145,Toxoplasmosis
+446,05140,Leishmaniasis
+447,05142,Chagas disease
+448,05143,African trypanosomiasis
+449,05310,Asthm
+450,05322,Systemic lupus erythematosus
+451,05323,Rheumatoid arthritis
+452,05320,Autoimmune thyroid disease
+453,05321,Inflammatory bowel disease
+454,05330,Allograft rejection
+455,05332,Graft-versus-host disease
+456,05340,Primary immunodeficiency
+457,05010,Alzheimer disease
+458,05012,Parkinson disease
+459,05014,Amyotrophic lateral sclerosis
+460,05016,Huntington disease
+461,05017,Spinocerebellar ataxi
+462,05020,Prion disease
+463,05022,Pathways of neurodegeneration - multiple diseases
+464,05030,Cocaine addiction
+465,05031,Amphetamine addiction
+466,05032,Morphine addiction
+467,05033,Nicotine addiction
+468,05034,Alcoholism
+469,05417,Lipid and atherosclerosis
+470,05418,Fluid shear stress and atherosclerosis
+471,05410,Hypertrophic cardiomyopathy
+472,05412,Arrhythmogenic right ventricular cardiomyopathy
+473,05414,Dilated cardiomyopathy
+474,05415,Diabetic cardiomyopathy
+475,05416,Viral myocarditis
+476,04930,Type II diabetes mellitus
+477,04940,Type I diabetes mellitus
+478,04950,Maturity onset diabetes of the young
+479,04936,Alcoholic liver disease
+480,04932,Non-alcoholic fatty liver disease
+481,04931,Insulin resistance
+482,04933,AGE-RAGE signaling pathway in diabetic complications
+483,04934,Cushing syndrome
+484,01501,beta-Lactam resistance
+485,01502,Vancomycin resistance
+486,01503,Cationic antimicrobial peptide (CAMP) resistance
+487,01521,EGFR tyrosine kinase inhibitor resistance
+488,01524,Platinum drug resistance
+489,01523,Antifolate resistance
+490,01522,Endocrine resistance
+491,07011,Penicillins
+492,07012,Cephalosporins - parenteral agents
+493,07013,Cephalosporins - oral agents
+494,07021,Aminoglycosides
+495,07019,Tetracyclines
+496,07020,Macrolides and ketolides
+497,07014,Quinolones
+498,07023,Rifamycins
+499,07026,Antifungal agents
+500,07044,Antiviral agents
+501,07053,Anti-HIV agents
+502,07040,Antineoplastics - alkylating agents
+503,07041,Antineoplastics - antimetabolic agents
+504,07042,Antineoplastics - agents from natural products
+505,07043,Antineoplastics - hormones
+506,07045,Antineoplastics - protein kinase inhibitors
+507,07032,Hypnotics
+508,07030,Anxiolytics
+509,07033,Anticonvulsants
+510,07015,Local analgesics
+511,07039,Opioid analgesics
+512,07028,Antipsychotics
+513,07029,Antipsychotics - phenothiazines
+514,07031,Antipsychotics - butyrophenones
+515,07027,Antidepressants
+516,07056,Agents for Alzheimer-type dementi
+517,07057,Antiparkinsonian agents
+518,07055,Sulfonamide derivatives - overview
+519,07016,Sulfonamide derivatives - sulfa drugs
+520,07017,Sulfonamide derivatives - diuretics
+521,07018,Sulfonamide derivatives - hypoglycemic agents
+522,07037,Antiarrhythmic drugs
+523,07038,Antiulcer drugs
+524,07046,Immunosuppressive agents
+525,07047,Osteoporosis drugs
+526,07048,Antimigraines
+527,07049,Antithrombosis agents
+528,07050,Antirheumatics - DMARDs and biological agents
+529,07051,Antidiabetics
+530,07052,Antidyslipidemic agents
+531,07054,Antiglaucoma agents
+532,07220,Cholinergic and anticholinergic drugs
+533,07215,lpha-Adrenergic receptor agonists/antagonists
+534,07214,beta-Adrenergic receptor agonists/antagonists
+535,07213,Dopamine receptor agonists/antagonists
+536,07212,Histamine H1 receptor antagonists
+537,07227,Histamine H2/H3 receptor agonists/antagonists
+538,07211,Serotonin receptor agonists/antagonists
+539,07228,Eicosanoid receptor agonists/antagonists
+540,07224,Opioid receptor agonists/antagonists
+541,07229,Angiotensin receptor and endothelin receptor antagonists
+542,07225,Glucocorticoid and mineralocorticoid receptor agonists/antagonists
+543,07226,"Progesterone, androgen and estrogen receptor agonists/antagonists"
+544,07223,Retinoic acid receptor (RAR) and retinoid X receptor (RXR) agonists/antagonists
+545,07222,Peroxisome proliferator-activated receptor (PPAR) agonists
+546,07221,Nicotinic cholinergic receptor antagonists
+547,07230,GABA-A receptor agonists/antagonists
+548,07036,Calcium channel blocking drugs
+549,07231,Sodium channel blocking drugs
+550,07232,Potassium channel blocking and opening drugs
+551,07235,N-Methyl-D-aspartic acid (NMDA) receptor antagonists
+552,07233,Ion transporter inhibitors
+553,07234,Neurotransmitter transporter inhibitors
+554,07216,Catecholamine transferase inhibitors
+555,07219,Cyclooxygenase inhibitors
+556,07024,HMG-CoA reductase inhibitors
+557,07217,Renin-angiotensin system inhibitors
+558,07218,HIV protease inhibitors
+559,07025,Quinolines
+560,07034,Eicosanoids
+561,07035,Prostaglandins
+562,07110,Benzoic acid family
+563,07112,"1,2-Diphenyl substitution family"
+564,07114,Naphthalene family
+565,07117,Benzodiazepine family
